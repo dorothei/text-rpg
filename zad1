@@ -1,4 +1,0 @@
-def rub_to_usd(rub, rate):
-    return f'{rub/rate}$'
-
-print(rub_to_usd(float(input('Введите рубли ')),float(input('Введите курс доллара '))))
